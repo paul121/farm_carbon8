@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- Depend on FarmLab v2, which adds farmOS Integrations module.
+
 ## 1.0.0 2024-08-16
 
 The initial release of this module.

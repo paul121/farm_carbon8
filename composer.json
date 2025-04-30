@@ -9,7 +9,7 @@
       }
   ],
   "require": {
-    "drupal/farm_farmlab": "^1.0.0-beta4",
+    "drupal/farm_farmlab": "^2.0",
     "farmos/farmos": "^3"
   }
 }
